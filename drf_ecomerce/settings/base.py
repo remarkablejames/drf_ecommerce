@@ -30,6 +30,7 @@ INSTALLED_APPS = [
     #     EXTERNAL APPS
     'rest_framework',
     #     LOCAL APPS
+    'product',
 ]
 
 MIDDLEWARE = [
